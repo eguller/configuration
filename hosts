@@ -1,0 +1,29 @@
+##
+# Host Database
+#
+# localhost is used to configure the loopback interface
+# when the system is booting.  Do not change this entry.
+##
+127.0.0.1   localhost
+255.255.255.255 broadcasthost
+::1             localhost
+127.0.0.1   reddit.com
+127.0.0.1   m.reddit.com
+127.0.0.1   facebook.com
+127.0.0.1   m.facebook.com
+127.0.0.1   eksisozluk.com
+127.0.0.1   sourtimes.org
+127.0.0.1   hurriyet.com.tr
+127.0.0.1   m.hurriyet.com.tr
+127.0.0.1   milliyet.com.tr
+127.0.0.1   m.milliyet.com.tr
+127.0.0.1   youtube.com
+127.0.0.1   m.youtube.com
+127.0.0.1   news.ycombinator.com
+127.0.0.1   linkedin.com
+127.0.0.1   m.linkedin.com
+127.0.0.1   tr.sputniknews.com
+127.0.0.1   bbc.com.tr
+127.0.0.1   bbc.com
+
+
